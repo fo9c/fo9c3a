@@ -24,12 +24,23 @@
 
 I build practical AI workflows, backend systems, and automation tools that turn ideas into working products — designing reliable agents, shipping backend systems, exploring creative tools, and learning along the way.
 
-<p>
-  <a href="https://github.com/fo9c3a"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
-
 <p align="left">
   <img src="./image/divider.svg" width="64%" alt="">
+</p>
+
+<p align="center">
+  <img src="./assets/activity-graph.svg" alt="GitHub activity graph">
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/fo9c3a"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/us_3a"><img alt="X / Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://gitee.com/fo9c_us"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?style=for-the-badge&logo=gitee&logoColor=white"></a>
+  <a href="https://www.youtube.com/@fo9c"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-910b0c?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://steamcommunity.com/profiles/76561199036378412/"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="mailto:chengfo9c@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-1D9BF0?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 ## ✨ Anime Tech Dashboard
