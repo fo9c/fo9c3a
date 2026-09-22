@@ -22,16 +22,7 @@
 
 > `SYSTEM ONLINE` · `BUILD MODE: ON` · `ANIME ENERGY: ∞`
 
-I build practical AI workflows, backend systems, and automation tools that turn ideas into working products.
-
-🧪 Designing **reliable AI workflows and useful agents**<br>
-<img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
-🧰 Building **backend systems that are made to ship**<br>
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-3B1F47?style=flat-square&logo=databricks&logoColor=white"> <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"> <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
-🎬 Exploring **creative tools, video, and computer use**<br>
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"><br>
-🌸 Learning, tinkering, and enjoying anime along the way<br>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=flat-square&logo=github&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1B1B1B"> <img alt="macOS" src="https://img.shields.io/badge/macOS-252A34?style=flat-square&logo=apple&logoColor=white"> <img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white">
+I build practical AI workflows, backend systems, and automation tools that turn ideas into working products — designing reliable agents, shipping backend systems, exploring creative tools, and learning along the way.
 
 <p>
   <a href="https://github.com/fo9c3a"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
@@ -42,6 +33,18 @@ I build practical AI workflows, backend systems, and automation tools that turn 
 </p>
 
 ## ✨ Anime Tech Dashboard
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-3B1F47?style=flat-square&logo=databricks&logoColor=white"> <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"> <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=flat-square&logo=github&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1B1B1B"> <img alt="macOS" src="https://img.shields.io/badge/macOS-252A34?style=flat-square&logo=apple&logoColor=white">
+</p>
+
+### 🌸 Visitors Count Received
+
+<p><img src="https://count.getloli.com/get/@fo9c3a.github.readme?theme=rule34" width="370" alt="Visitor count"></p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fo9c3a&show_icons=true&hide_border=true&bg_color=00000000&title_color=ec4899&icon_color=8b5cf6&text_color=64748b&rank_icon=github" alt="GitHub statistics">
